@@ -62,12 +62,8 @@
 </div>
 <h2 class="raw">Output</h2>
 <p>We will start our coding journey by creating a small program that outputs a message to the console. To do this, we will use a command called <code>console.log</code>.</p>
-<p>The <code>console.log</code> command allows us to output and see the result of our code. You will get used to writing a lot of <em>console.log()</em> over time. We will run our code using CodePen:</p>
-<p><strong>Click</strong> on the &ldquo;<strong>EDIT ON CODEPEN</strong>&rdquo; below to open the live example and run the code:</p>
-<p><iframe height="265" src="//codepen.io/ironhack/embed/NRpbqX/?height=265&amp;theme-id=0&amp;default-tab=js" allowfullscreen="true" style="width: 100%;">See the Pen <a href="http://codepen.io/ironhack/pen/NRpbqX/">JavaScript - console.log</a> by Ironhack (<a href="http://codepen.io/ironhack">@ironhack</a>) on <a href="http://codepen.io">CodePen</a>.
-</iframe></p>
-<p>To see the result, open the console in the following way:</p>
-<p><img src="https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_3c7e437bc146fb04d8f0d41375490df0.png" alt="" class="raw md-image" /></p>
+<p>The <code>console.log</code> command allows us to output and see the result of our code. You will get used to writing a lot of <em>console.log()</em> over time.</p>
+
 <h2 class="raw">Comments</h2>
 <p>Comments are pieces of information that are never read or executed by JavaScript.</p>
 <p>Comments in the code are helpful for several reasons:</p>
