@@ -9,7 +9,7 @@
 <h2 class="raw">Activity Format: Find the Answer</h2>
 <p></p>
 <p>&ldquo;Find the Answer&rdquo; is a group activity where you will have to answer a series of questions based on the lesson you have just completed.</p>
-<p>Your facilitator will put you into Zoom breakout rooms at the beginning of the activity (three students per group), and you will answer as many questions as you can during the allocated time. You may check the solutions after each question or all at once at the end of the activity. If you decide to check them all at once, make sure you allow enough time to do this!</p>
+<p>Your teacher will put you into groups at the beginning of the activity, and you will answer as many questions as you can during the allocated time. You may check the solutions after each question or all at once at the end of the activity. If you decide to check them all at once, make sure you allow enough time to do this!</p>
 <p>Go through the questions one-by one, reading each of them as a group before trying to answer. Refer to the lesson to answer if necessary, good luck!</p>
 <p></p>
 <div class="alert alert-info">
